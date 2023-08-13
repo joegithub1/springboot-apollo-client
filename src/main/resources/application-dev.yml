@@ -1,0 +1,10 @@
+server:
+  port: 18091
+app:
+  id: 100000001
+apollo:
+  bootstrap:
+    enabled: true
+    namespaces: application
+  meta: http://127.0.0.1:8080
+#  cache-dir:
